@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/yousufislam191" target="blank"><img src="https://img.shields.io/twitter/follow/yousufislam191?logo=twitter&style=for-the-badge" alt="yousuf_islam1" /></a> </p>
 
-- 🌱 I’m currently learning **Bootstrap**
+- 🌱 I’m currently learning **Bootstrap * Flutter**
 
 - 👯 I’m looking to collaborate on **developers**
 
