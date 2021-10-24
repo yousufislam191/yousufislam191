@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yousuf</h1>
-<h3 align="center">I am a student, | Web Developer | Graphics Designer | Digital Marketer | SEO Expert| Cyber Security & Ethical Hacker |</h3>
+<h3 align="center">I am a student, | Web Developer | Graphics Designer | Digital Marketer | SEO Expert| Cyber Security</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yousufislam&label=Profile%20views&color=0e75b6&style=flat" alt="yousufislam" /> </p>
 
