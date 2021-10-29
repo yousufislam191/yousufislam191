@@ -34,7 +34,7 @@
 - Graphics Design
 - Digital Marketing
 
- <h3 align="left">>>>Hands-on Training Experience<<<</h3>
+ <h3 align="left">>>>Hands-on Experience<<<</h3>
   
 - ◉ Research Paper & Proposal Writing
 - ◉ Java Swing
