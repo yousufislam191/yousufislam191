@@ -16,6 +16,7 @@
 [CV]: https://drive.google.com/file/d/1cOtKuzMgouDN9uXKRtnJEyLcwx-ssia8/view?usp=sharing "Yousuf CV"
 
 - 🥅 2022 Learning Goals: **Software development, Full stack web development, Research publication.**
+
 - ⚡ Fun fact **I love listening to music, traveling, photography, learn something new.**
 
 
