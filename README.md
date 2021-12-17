@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yousufislam&label=Profile%20views&color=0e75b6&style=flat" alt="yousufislam191" /> </p>
 
-- 🌱 I’m currently learning **Bootstrap & Flutter**
+- 🌱 I’m currently learning **Flutter**
 
 - 👯 I’m looking to collaborate on **developers**
 
@@ -15,7 +15,7 @@
 
 [CV]: https://drive.google.com/file/d/1cOtKuzMgouDN9uXKRtnJEyLcwx-ssia8/view?usp=sharing "Yousuf CV"
 
-- ⚡ Fun fact **I love listening to music and love to travel and love to learn something new.**
+- ⚡ Fun fact **I love listening to music, traveling, photography, learn something new.**
 
 
 <p align="left"> <a href="https://twitter.com/yousufislam191" target="blank"><img src="https://img.shields.io/twitter/follow/yousufislam191?logo=twitter&style=for-the-badge" alt="yousuf_islam1" /></a> </p>
@@ -49,7 +49,6 @@
 - Data Security
 - Cloud Security
 - Cyber Security
-- Ethical Hacking
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
