@@ -6,8 +6,10 @@
 - 🌱 I’m currently learning **Flutter**
 - 👯 I’m looking to collaborate on **developers**
 - 👨‍💻 All of my Graphics Design projects are available at [Here] .
+
 [Here]: https://drive.google.com/drive/folders/1g8l9Sf8KwTw53H00KEMsmQmpKzH-O3Qm "Design Portfolio"
 - 📄 Know about my experiences in [CV] . 
+
 [CV]: https://drive.google.com/file/d/1cOtKuzMgouDN9uXKRtnJEyLcwx-ssia8/view?usp=sharing "Yousuf CV"
 - 🥅 2022 Learning Goals: **Software development, Full stack web development, Research publication.**
 - ⚡ Fun fact **I love listening to music, traveling, photography, learn something new.**
