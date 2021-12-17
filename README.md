@@ -46,8 +46,7 @@
 
 - Blockchain Technology
 - Computer Network Security
-- Data Security
-- Cloud Security
+- Data & Cloud Security
 - Cyber Security
 
 <h3 align="left">Connect with me:</h3>
