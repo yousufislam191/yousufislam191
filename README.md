@@ -15,34 +15,19 @@
 
 
 
-- 🌱 I’m currently learning **React, Python**
+- 🌱 I’m currently learning **React js, Machine Learning**
 - 👯 I’m looking to collaborate on **Developers, Projects & Tech Articles**
 - 📄 Know about my experiences in [Resume] . 
 - 🥅 2022 Learning Goals: **Software development, Full stack web development, Research publication.**
 - ⚡ Fun fact **I love listening to music, traveling, photography, learn something new.**
 
+[Resume]: https://drive.google.com/file/d/14IE6-O4ZH2EYK4pA_2TLnVmdB5y1iuXB/view?usp=sharing "Yousuf Resume"
 
-[Resume]: https://drive.google.com/file/d/1cOtKuzMgouDN9uXKRtnJEyLcwx-ssia8/view?usp=sharing "Yousuf CV"
 
+<!-- <p align="left"> <a href="https://twitter.com/yousufislam191" target="blank"><img src="https://img.shields.io/twitter/follow/yousufislam191?logo=twitter&style=for-the-badge" alt="yousuf_islam1" /></a> </p> -->
 
-<p align="left"> <a href="https://twitter.com/yousufislam191" target="blank"><img src="https://img.shields.io/twitter/follow/yousufislam191?logo=twitter&style=for-the-badge" alt="yousuf_islam1" /></a> </p>
+<p><img align="right" src="animation_500_kxa883sd.gif" alt="adam-pw" height=300px/></p>
 
-<p><img align="right" src="animation_500_kxa883sd.gif" alt="adam-pw" /></p>
-
-<!-- <div class="row">
-  <div class="col-lg-7 col-12">
-    <h3 align="left"><strong>Key Skills</strong><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></h3>
-
-      - Software Development
-      - Frontend Web Development
-      - Graphics Design
-      - Digital Marketing
-      - Cyber Security
-  </div>
-  <div class="col-md-5 col-12">
-    <img align="right" src="animation_500_kxa883sd.gif" alt="adam-pw" />
-  </div>
-</div> -->
 
 <h2 align="left">Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h2>
 <p align="left">
@@ -128,8 +113,11 @@
 **Research Interest Field:**
 - Blockchain Technology
 - 6G Technology
-<br><br>
+<br>
 
+<h2 align="left">Leetcode Status</h2>
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/Yousufislam191?ext=activity)<br><br>
 
 <h2>⚙️&nbsp;GitHub Analytics</h2>
 
