@@ -13,10 +13,9 @@
 
 [![Github](https://img.shields.io/github/followers/yousufislam191?label=Follow&style=social)](https://github.com/yousufislam191)
 
-- 🌱 I’m currently learning **React js, Node js**
+- 🌱 I’m currently learning **Redux, GraphQL, CI/CD**
 - 👯 I’m looking to collaborate on **Developers, Projects & Tech Articles**
 - 📄 Know about my experiences in [Resume].
-- 🥅 2023 Learning Goals: **Machine Learning, Problem Solving, Research publication.**
 - ⚡ Fun fact **I love listening to music, traveling, photography, learn something new.**
 
 [resume]: https://drive.google.com/file/d/14IE6-O4ZH2EYK4pA_2TLnVmdB5y1iuXB/view?usp=sharing "Yousuf Resume"
