@@ -43,7 +43,7 @@ Connect with me :
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-</h4><br>
+</h4>
 
 <h4 align="left">
 <strong>Framework & Library : </strong>
@@ -53,7 +53,7 @@ Connect with me :
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" height="40" />    
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="40" height="40" />
 <img align="center" src="https://icon.icepanel.io/Technology/png-shadow-512/Express.png" width="40" height="40" />
-</h4><br>
+</h4>
 
 <h4 align="left">
 <strong>Database : </strong>
@@ -61,7 +61,7 @@ Connect with me :
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="60" height="60"  />
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="60" height="60"/>
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" width="60" height="60"/>
-</h4><br>
+</h4>
 
 <h4 align="left">
 <strong>Tools : </strong>
@@ -75,7 +75,7 @@ Connect with me :
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40"/>
 <img align="center" src="https://img.icons8.com/color/452/whois--v1.png" width="40" height="40"/>
 <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Acunetix_logo.png" width="60" height="40"/>
-</h4><br>
+</h4>
 
 <h2 align="center"><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></h2>
 
