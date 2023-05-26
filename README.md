@@ -13,7 +13,7 @@
 <a  href="https://github.com/yousufislam191?tab=followers"><img src="https://img.shields.io/github/followers/yousufislam191?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
 
-- 🌱 I’m currently learning **Redux.js, GraphQL, CI/CD**
+- 🌱 I’m currently learning **Redux.js**
 - 👯 I’m looking to collaborate on **Developers, Projects & Tech Articles**
 - 📄 Know about my experiences in [`Resume`](https://drive.google.com/file/d/14IE6-O4ZH2EYK4pA_2TLnVmdB5y1iuXB/view?usp=sharing "Yousuf Resume")
 - ⚡ Fun fact: **I love listening to music, traveling, photography, learn something new.**
@@ -45,14 +45,15 @@ Connect with me :
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
 </h4>
 
-<h4 align="left">
-<strong>Framework & Library : </strong>
+<h4 align="left" style="display: flex;">
+<strong style="margin-top: 1rem;">Framework & Library : </strong>
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40"/>
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40"/>
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" height="40" />    
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="40" height="40" />
 <img align="center" src="https://icon.icepanel.io/Technology/png-shadow-512/Express.png" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" />
 </h4>
 
 <h4 align="left">
