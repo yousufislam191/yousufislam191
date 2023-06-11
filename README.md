@@ -99,11 +99,11 @@ Connect with me :
 - Machine Learning
   <br>
 
-<h2 align="center">Leetcode Status</h2>
+<!-- <h2 align="center">Leetcode Status</h2>
 
 ---
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/Yousufislam191?ext=heatmap)<br><br>
+![Leetcode Stats](https://leetcard.jacoblin.cool/Yousufislam191?ext=heatmap)<br><br> -->
 
 <h2 align="center">⚙️&nbsp;GitHub Analytics</h2>
 
