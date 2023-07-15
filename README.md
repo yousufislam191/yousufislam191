@@ -13,7 +13,7 @@
 <a  href="https://github.com/yousufislam191?tab=followers"><img src="https://img.shields.io/github/followers/yousufislam191?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Machine Learning**
 - 👯 I’m looking to collaborate on **Developers, Projects & Tech Articles**
 - 📄 Know about my experiences in [`Resume`](https://drive.google.com/file/d/14IE6-O4ZH2EYK4pA_2TLnVmdB5y1iuXB/view?usp=sharing "Yousuf Resume")
 - ⚡ Fun fact: **I love listening to music, traveling, photography, learn something new.**
@@ -53,7 +53,12 @@ Connect with me :
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" height="40" />    
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="40" height="40" />
 <img align="center" src="https://icon.icepanel.io/Technology/png-shadow-512/Express.png" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" />
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" />
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40" />
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="40" height="40" />
+<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/2048px-Matplotlib_icon.svg.png" width="40" height="40" />
+<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" width="60" height="40" />
+<img align="center" src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-wide-lightbg.svg" height="40" />
 </h4>
 
 <h4 align="left">
