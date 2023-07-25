@@ -1,7 +1,8 @@
-<h1 align="center">Hi, I'm <strong>Yousuf</strong></h1>
+<a href="https://app.daily.dev/yousufislam191" target="_blank"><img src="https://api.daily.dev/devcards/be629e4983f14617af41d7ca0b09e5ca.png?r=ur9" width="300" align="right" alt="Md. Yousuf Islam's Dev Card"/></a>
+<h1 align="left">Hi, I'm <strong>Yousuf</strong></h1>
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+and+Engineering+Student;Graduated+from+Leading+University;Software+Developer;Fullstack+Web+Application+Developer;Graphics+and+UI/UX+Designer;Cyber+Security+Specialist;Always%20learning%20new%20techniques%20and%20technologies&center=true&width=600&height=45"></a>
+<p align="left">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Graduated+from+Leading+University;Fullstack+Web+Application+Developer;Graphics+and+UI/UX+Designer;Cyber+Security+Specialist&left=true&width=400&height=45"></a>
 </p>
 
 <h2 align="center"><strong>About Yousuf</strong></h2>
