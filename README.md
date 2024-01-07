@@ -2,7 +2,7 @@
 <h1 align="left">Hi, I'm <strong>Yousuf</strong></h1>
 
 <p align="left">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Graduated+from+Leading+University;Fullstack+Web+Application+Developer;Graphics+and+UI/UX+Designer;Cyber+Security+Specialist&left=true&width=400&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Graduated+from+Leading+University;Fullstack+Web+Application+Developer;Graphics+and+UI+Designer;Cyber+Security+Specialist&left=true&width=400&height=45"></a>
 </p>
 
 <h2 align="center"><strong>About Yousuf</strong></h2>
@@ -33,57 +33,41 @@ Connect with me :
 <h2 align="center"><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Languages and Tools 🛠 &nbsp;<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></h2>
 
 ---
-
-<h4 align="left">
-<strong>Programming Languages : </strong>
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"  width="40" height="40"/>
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" height="40"/>
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+<h4>
+  <strong>Language:</strong>
+    <img align="center" src="https://skillicons.dev/icons?i=js,python,c,dart" alt="My Skills">
 </h4>
-
-<h4 align="left" style="display: flex;">
-<strong style="margin-top: 1rem;">Framework & Library : </strong>
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40"/>
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" height="40" />    
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="40" height="40" />
-<img align="center" src="https://icon.icepanel.io/Technology/png-shadow-512/Express.png" width="40" height="40" />
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" width="40" height="40" />
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" />
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40" />
+<h4>
+  <strong>Backend:</strong>
+    <img align="center" src="https://skillicons.dev/icons?i=nodejs,expressjs,sequelize" alt="My Skills">
+</h4>
+<h4>
+  <strong>Database:</strong>
+    <img align="center" src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase" alt="My Skills">
+</h4>
+<h4>
+  <strong>Front-end:</strong>
+    <img align="center" src="https://skillicons.dev/icons?i=react,materialui,tailwind,bootstrap,flutter" alt="My Skills">
+</h4>
+<h4>
+  <strong>Testing:</strong>
+    <img align="center" src="https://skillicons.dev/icons?i=jest" alt="My Skills">
+</h4>
+<h4>
+  <strong>Machine Learning:</strong>
+    <img align="center" src="https://skillicons.dev/icons?i=sklearn" alt="My Skills">
+  <img align="center" style="margin-left=-20;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40" />
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="40" height="40" />
 <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/2048px-Matplotlib_icon.svg.png" width="40" height="40" />
-<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" width="60" height="40" />
 <img align="center" src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-wide-lightbg.svg" height="40" />
 </h4>
-
-<h4 align="left">
-<strong>Database : </strong>
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="60" height="60" />
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="60" height="60"  />
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="60" height="60"/>
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" width="60" height="60"/>
+<h4>
+  <strong>Design:</strong>
+    <img align="center" src="https://skillicons.dev/icons?i=figma,ps,xd" alt="My Skills">
 </h4>
-
-<h4 align="left">
-<strong>Tools : </strong>
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
-<img align="center" src="https://icon.icepanel.io/Technology/svg/Postman.svg" width="40" height="40">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/> 
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" width="40" height="40"/>
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40"/>
-<img align="center" src="https://img.icons8.com/color/452/whois--v1.png" width="40" height="40"/>
-<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Acunetix_logo.png" width="60" height="40"/>
+<h4>
+  <strong>Tools:</strong>
+    <img align="center" src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,vercel," alt="My Skills">
 </h4>
 
 <h2 align="center"><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></h2>
@@ -94,8 +78,8 @@ Connect with me :
 
 **Key Skills:**
 
-- Fullstack Web and Android Application Development
-- Graphics and UI/UX Design
+- Fullstack Web Application Development
+- Graphics and UI Design
 - Cyber Security
 
 **Others:** OOP, DSA, Machine Learning, Regex Validation, Digital Marketing, Reconnaissance, SQL Injection.
