@@ -54,6 +54,10 @@ Connect with me :
     <img align="center" src="https://skillicons.dev/icons?i=jest" alt="My Skills">
 </h4>
 <h4>
+  <strong>Deployment:</strong>
+    <img align="center" src="https://skillicons.dev/icons?i=azure,docker,vercel" alt="My Skills">
+</h4>
+<h4>
   <strong>Machine Learning:</strong>
     <img align="center" src="https://skillicons.dev/icons?i=sklearn" alt="My Skills">
   <img align="center" style="margin-left=-20;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40" />
@@ -67,7 +71,7 @@ Connect with me :
 </h4>
 <h4>
   <strong>Tools:</strong>
-    <img align="center" src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,vercel," alt="My Skills">
+    <img align="center" src="https://skillicons.dev/icons?i=git,github,postman,vscode," alt="My Skills">
 </h4>
 
 <h2 align="center"><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></h2>
