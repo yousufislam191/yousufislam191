@@ -1,5 +1,3 @@
-<!--<a href="https://app.daily.dev/yousufislam191" target="_blank"><img src="https://api.daily.dev/devcards/be629e4983f14617af41d7ca0b09e5ca.png?r=ur9" width="300" align="right" alt="Md. Yousuf Islam's Dev Card"/></a>-->
-
 <a href="https://app.daily.dev/yousufislam191" target="_blank"><img src="https://api.daily.dev/devcards/v2/mxe6Mbh89ddd9u0Cou3D0.png?r=xb0" width="280" align="right" alt="Md. Yousuf Islam's Dev Card"/></a>
 <h1 align="left">Hi, I'm <strong>Yousuf</strong></h1>
 
