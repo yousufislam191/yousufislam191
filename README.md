@@ -2,7 +2,7 @@
 <h1 align="left">Hi, I'm <strong>Yousuf</strong></h1>
 
 <p align="left">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Graduated+from+Leading+University;Fullstack+Web+Application+Developer;Graphics+and+UI+Designer;Cyber+Security+Specialist&left=true&width=400&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Graduated+from+Leading+University;Software+Engineer+(Frontend+and+Backend);Graphics+and+UI+Designer&left=true&width=450&height=45"></a>
 </p>
 
 <h2 align="center"><strong>About Yousuf</strong></h2>
@@ -82,9 +82,8 @@ Connect with me :
 
 **Key Skills:**
 
-- Fullstack Web Application Development
+- Software Development (Web & Android)
 - Graphics and UI Design
-- Cyber Security
 
 **Others:** OOP, DSA, Machine Learning, Regex Validation, Digital Marketing, Reconnaissance, SQL Injection.
 
