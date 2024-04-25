@@ -12,6 +12,7 @@
 
 <p align="center"> 
 <img src="https://komarev.com/ghpvc/?username=yousufislam&label=Profile%20views&color=0e75b6&style=flat" alt="yousufislam191" /> 
+<img src="https://wakatime.com/badge/user/45a416bb-97f0-4c85-a305-959a6fe9270b.svg" alt="Total time coded since Apr 26 2024" />
 <a  href="https://github.com/yousufislam191?tab=followers"><img src="https://img.shields.io/github/followers/yousufislam191?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
 
