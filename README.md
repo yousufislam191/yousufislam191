@@ -1,4 +1,5 @@
 <a href="https://app.daily.dev/yousufislam191" target="_blank"><img src="https://api.daily.dev/devcards/v2/mxe6Mbh89ddd9u0Cou3D0.png?r=xb0" width="280" align="right" alt="Md. Yousuf Islam's Dev Card"/></a>
+
 <h1 align="left">Hi, I'm <strong>Yousuf</strong></h1>
 
 <p align="left">
@@ -14,7 +15,7 @@
 <a  href="https://github.com/yousufislam191?tab=followers"><img src="https://img.shields.io/github/followers/yousufislam191?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **System Design & DevOps**
 - 👯 I’m looking to collaborate on **Developers, Projects & Tech Articles**
 - 📄 Know about my experiences in [`Resume`](https://drive.google.com/file/d/14IE6-O4ZH2EYK4pA_2TLnVmdB5y1iuXB/view?usp=sharing "Yousuf Resume")
 - ⚡ Fun fact: **I love listening to music, traveling, photography, learn something new.**
@@ -33,13 +34,14 @@ Connect with me :
 <h2 align="center"><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Languages and Tools 🛠 &nbsp;<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></h2>
 
 ---
+
 <h4>
   <strong>Language:</strong>
-    <img align="center" src="https://skillicons.dev/icons?i=js,python,c,dart" alt="My Skills">
+    <img align="center" src="https://skillicons.dev/icons?i=js,python,typescript,c,php,dart" alt="My Skills">
 </h4>
 <h4>
   <strong>Backend:</strong>
-    <img align="center" src="https://skillicons.dev/icons?i=nodejs,expressjs,sequelize" alt="My Skills">
+    <img align="center" src="https://skillicons.dev/icons?i=nodejs,expressjs,sequelize,rabbitmq,redis,nginx" alt="My Skills">
 </h4>
 <h4>
   <strong>Database:</strong>
@@ -47,7 +49,7 @@ Connect with me :
 </h4>
 <h4>
   <strong>Front-end:</strong>
-    <img align="center" src="https://skillicons.dev/icons?i=react,materialui,tailwind,bootstrap,flutter" alt="My Skills">
+    <img align="center" src="https://skillicons.dev/icons?i=react,materialui,tailwind,bootstrap,flutter,jquery" alt="My Skills">
 </h4>
 <h4>
   <strong>Testing:</strong>
@@ -55,7 +57,7 @@ Connect with me :
 </h4>
 <h4>
   <strong>Deployment:</strong>
-    <img align="center" src="https://skillicons.dev/icons?i=azure,docker,vercel" alt="My Skills">
+    <img align="center" src="https://skillicons.dev/icons?i=azure,docker,vercel,githubactions" alt="My Skills">
 </h4>
 <h4>
   <strong>Machine Learning:</strong>
@@ -105,8 +107,16 @@ Connect with me :
 ---
 
 <p align="center">
-<a href="https://github.com/yousufislam191">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yousufislam191&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yousufislam191&layout=compact&langs_count=8&theme=algolia"/> <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yousufislam191&theme=radical">
+<a href="https://github.com/yousufislam191/convoychat">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousufislam191&layout=compact&langs_count=8&theme=transparent&card_width=320" />
+</a>
+<a href="https://github.com/yousufislam191/github-readme-stats">
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=yousufislam191&theme=transparent">
+</a>
+<a href="https://github.com/yousufislam191/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=yousufislam191&theme=transparent&layout=compact&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
+</a>
+<a href="https://github.com/yousufislam191/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=Alex_Panda&theme=transparent&layout=compact" />
 </a>
 </p>
