@@ -107,16 +107,8 @@ Connect with me :
 ---
 
 <p align="center">
-<a href="https://github.com/yousufislam191/convoychat">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousufislam191&layout=compact&langs_count=8&theme=transparent&card_width=320" />
-</a>
-<a href="https://github.com/yousufislam191/github-readme-stats">
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=yousufislam191&theme=transparent">
-</a>
-<a href="https://github.com/yousufislam191/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=yousufislam191&theme=transparent&layout=compact&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
-</a>
-<a href="https://github.com/yousufislam191/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=Alex_Panda&theme=transparent&layout=compact" />
-</a>
 </p>
