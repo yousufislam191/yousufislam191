@@ -109,7 +109,7 @@ Connect with me :
 
 <p align="center">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousufislam191&layout=compact&langs_count=8&theme=transparent&card_width=320" />
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=yousufislam191&theme=transparent">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=yousufislam191&theme=transparent&layout=compact&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=Alex_Panda&theme=transparent&layout=compact" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yousufislam191&theme=transparent"> </br></br>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Alex_Panda&theme=transparent&layout=compact" />
 </p>
