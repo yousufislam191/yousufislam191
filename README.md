@@ -3,7 +3,7 @@
 <h1 align="left">Hi, I'm <strong>Yousuf</strong></h1>
 
 <p align="left">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Graduated+from+Leading+University;Software+Engineer+(Frontend+and+Backend);Graphics+and+UI+Designer&left=true&width=450&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Graduated+from+Leading+University;Software+Engineer+(Frontend+and+Backend);Machine+Learning+Enthusiast;Graphics+and+UI+Designer&left=true&width=500&height=45"></a>
 </p>
 
 <h2 align="center"><strong>About Yousuf</strong></h2>
@@ -32,17 +32,17 @@ Connect with me :
 <a href="https://kaggle.com/yousufislam191" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="yousufislam191" height="30" width="40" /></a>
 </h2>
 
-<h2 align="center"><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Languages and Tools 🛠 &nbsp;<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></h2>
+<h2 align="center"><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> My Stacks 🛠 &nbsp;<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></h2>
 
 ---
 
 <h4>
-  <strong>Language:</strong>
+  <strong>Languages:</strong>
     <img align="center" src="https://skillicons.dev/icons?i=js,python,typescript,c,php,dart" alt="My Skills">
 </h4>
 <h4>
   <strong>Backend:</strong>
-    <img align="center" src="https://skillicons.dev/icons?i=nodejs,expressjs,sequelize,rabbitmq,redis,nginx" alt="My Skills">
+    <img align="center" src="https://skillicons.dev/icons?i=nodejs,expressjs,sequelize,rabbitmq,redis,webpack,nginx" alt="My Skills">
 </h4>
 <h4>
   <strong>Database:</strong>
@@ -70,11 +70,11 @@ Connect with me :
 </h4>
 <h4>
   <strong>Design:</strong>
-    <img align="center" src="https://skillicons.dev/icons?i=figma,ps,xd" alt="My Skills">
+    <img align="center" src="https://skillicons.dev/icons?i=figma,ps" alt="My Skills">
 </h4>
 <h4>
   <strong>Tools:</strong>
-    <img align="center" src="https://skillicons.dev/icons?i=git,github,postman,vscode," alt="My Skills">
+    <img align="center" src="https://skillicons.dev/icons?i=git,github,postman,vscode,kali,linux,ubuntu" alt="My Skills">
 </h4>
 
 <h2 align="center"><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></h2>
@@ -85,10 +85,10 @@ Connect with me :
 
 **Key Skills:**
 
-- Software Development (Web & Android)
+- Software Development (Web)
 - Graphics and UI Design
 
-**Others:** OOP, DSA, Machine Learning, Regex Validation, Digital Marketing, Reconnaissance, SQL Injection.
+**Others:** System Design | Microservice Architecture | JWT | OOP | DSA | Machine Learning | Regex | Reconnaissance | SQL Injection.
 
 **Research Interest Field:**
 
