@@ -62,9 +62,10 @@ Connect with me :
 <h2 align="center">GitHub Analytics</h2>
 
 <details><summary><strong>Recent Activity :zap:</strong></summary>
-<!--START_SECTION:activity-->
 
+<!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
+
 </details></br>
 
 <p align="center">
