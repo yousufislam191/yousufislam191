@@ -37,35 +37,17 @@ Connect with me :
     <img align="center" src="https://skillicons.dev/icons?i=js,python,typescript,c,php,dart" alt="My Skills">
 </h4> -->
 
-<h4>
-  <strong>Languages:</strong>
-    C | Python | JavaScript
-</h4>
+**Languages:** C | Python | JavaScript
 
-<h4>
-  <strong>Backend:</strong>
-    Node.js | Express.js | TypeScript | REST API | RPC | JWT | DTO | Microservice Architecture | RabbitMQ | ORM (Sequelize, TypeORM) | MySQL | MongoDB | PostgreSQL | Firebase | Redis | Postman
-</h4>
+**Backend:** Node.js | Express.js | TypeScript | REST API | RPC | JWT | DTO | Microservice Architecture | RabbitMQ | ORM (Sequelize, TypeORM) | MySQL | MongoDB | PostgreSQL | Firebase | Redis | Postman
 
-<h4>
-  <strong>DevOps:</strong>
-    Docker | Nginx | Linux | Git | Github Actions | CI/CD | Jest | Jenkins | Azure | Bash | Shell | VMware
-</h4>
+**DevOps:** Docker | Nginx | Linux | Git | Github Actions | CI/CD | Jest | Jenkins | Azure | Bash | Shell | VMware
 
-<h4>
-  <strong>Frontend:</strong>
-    React.js | Next.js | Material-UI | Tailwind CSS | Bootstrap | jQuery | HTML | CSS
-</h4>
+**Frontend:** React.js | Next.js | Material-UI | Tailwind CSS | Bootstrap | jQuery | HTML | CSS
 
-<h4>
-  <strong>Machine Learning:</strong>
-    Scikit-learn | Numpy | Pandas | Matplotlib | Seaborn
-</h4>
+**Machine Learning:** Scikit-learn | Numpy | Pandas | Matplotlib | Seaborn
 
-<h4>
-  <strong>Others:</strong>
-    OOP | System Design | Kali Linux | Reconnaissance | SQL Injection | Regex | Figma | Photoshop
-</h4>
+**Others:** OOP | System Design | Kali Linux | Reconnaissance | SQL Injection | Regex | Figma | Photoshop
 
 **Research Interest Field:**
 
@@ -80,13 +62,9 @@ Connect with me :
 <h2 align="center">GitHub Analytics</h2>
 
 <p align="center">
-  <!-- GitHub Stats Card -->
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousufislam191&layout=compact&langs_count=50&theme=transparent&card_width=320&count_private=true" alt="Top Languages" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=Alex_Panda&theme=transparent&layout=compact" alt="Wakatime Stats" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yousufislam191&theme=transparent&layout=compact&show_icons=true&show=prs_merged,prs_merged_percentage" alt="GitHub Stats" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yousufislam191&theme=transparent" alt="GitHub Streak" />
-  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yousufislam191&layout=compact&langs_count=50&theme=transparent&card_width=300&count_private=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Alex_Panda&theme=transparent&layout=compact" alt="Wakatime Stats" />
+  <div align="center" style="display: row;">  <img src="https://github-readme-stats.vercel.app/api?username=yousufislam191&theme=transparent&layout=compact&show_icons=true&show=prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=yousufislam191&theme=transparent" alt="GitHub Streak" />
+  </div>
 </p>
-
-<!-- Placeholder for GitHub Actions to update stats -->
-<!-- End of GitHub Analytics section -->
