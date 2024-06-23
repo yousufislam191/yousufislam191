@@ -1,0 +1,29 @@
+name: Update README with GitHub Stats
+
+on:
+  schedule:
+    - cron: "0 * * * *" # Runs every hour
+  push:
+    branches:
+      - main
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Update GitHub Stats
+        uses: anuraghazra/github-readme-stats@v2 # Adjust version as needed
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_README_STATS_TOKEN }}
+          README_STATS_USERNAME: yousufislam191 # Use a dedicated secret
+          # Other customization options (refer to action documentation)
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          git commit -m "Update GitHub Stats in README"
+          git push

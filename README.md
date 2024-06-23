@@ -3,12 +3,10 @@
 <h1 align="left">Hi, I'm <strong>Yousuf</strong></h1>
 
 <p align="left">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Graduated+from+Leading+University;Software+Engineer+(Frontend+and+Backend);Machine+Learning+Enthusiast;Graphics+and+UI+Designer&left=true&width=500&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Graduated+from+Leading+University;Software+Engineer+(Frontend+and+Backend);Machine+Learning+Enthusiast&left=true&width=500&height=45"></a>
 </p>
 
 <h2 align="center"><strong>About Yousuf</strong></h2>
-
----
 
 <p align="center"> 
 <img src="https://komarev.com/ghpvc/?username=yousufislam&label=Profile%20views&color=0e75b6&style=flat" alt="yousufislam191" /> 
@@ -34,82 +32,61 @@ Connect with me :
 
 <h2 align="center"><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> My Stacks 🛠 &nbsp;<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></h2>
 
----
+<!-- <h4>
+  <strong>Languages:</strong>
+    <img align="center" src="https://skillicons.dev/icons?i=js,python,typescript,c,php,dart" alt="My Skills">
+</h4> -->
 
 <h4>
   <strong>Languages:</strong>
-    <img align="center" src="https://skillicons.dev/icons?i=js,python,typescript,c,php,dart" alt="My Skills">
+    C | Python | JavaScript
 </h4>
+
 <h4>
   <strong>Backend:</strong>
-    <img align="center" src="https://skillicons.dev/icons?i=nodejs,expressjs,sequelize,rabbitmq,redis,webpack,nginx" alt="My Skills">
+    Node.js | Express.js | TypeScript | REST API | RPC | JWT | DTO | Microservice Architecture | RabbitMQ | ORM (Sequelize, TypeORM) | MySQL | MongoDB | PostgreSQL | Firebase | Redis | Postman
 </h4>
+
 <h4>
-  <strong>Database:</strong>
-    <img align="center" src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase" alt="My Skills">
+  <strong>DevOps:</strong>
+    Docker | Nginx | Linux | Git | Github Actions | CI/CD | Jest | Jenkins | Azure | Bash | Shell | VMware
 </h4>
+
 <h4>
-  <strong>Front-end:</strong>
-    <img align="center" src="https://skillicons.dev/icons?i=react,materialui,tailwind,bootstrap,flutter,jquery" alt="My Skills">
+  <strong>Frontend:</strong>
+    React.js | Next.js | Material-UI | Tailwind CSS | Bootstrap | jQuery | HTML | CSS
 </h4>
-<h4>
-  <strong>Testing:</strong>
-    <img align="center" src="https://skillicons.dev/icons?i=jest" alt="My Skills">
-</h4>
-<h4>
-  <strong>Deployment:</strong>
-    <img align="center" src="https://skillicons.dev/icons?i=azure,docker,vercel,githubactions" alt="My Skills">
-</h4>
+
 <h4>
   <strong>Machine Learning:</strong>
-    <img align="center" src="https://skillicons.dev/icons?i=sklearn" alt="My Skills">
-  <img align="center" style="margin-left=-20;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40" />
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="40" height="40" />
-<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/2048px-Matplotlib_icon.svg.png" width="40" height="40" />
-<img align="center" src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-wide-lightbg.svg" height="40" />
+    Scikit-learn | Numpy | Pandas | Matplotlib | Seaborn
 </h4>
+
 <h4>
-  <strong>Design:</strong>
-    <img align="center" src="https://skillicons.dev/icons?i=figma,ps" alt="My Skills">
+  <strong>Others:</strong>
+    OOP | System Design | Kali Linux | Reconnaissance | SQL Injection | Regex | Figma | Photoshop
 </h4>
-<h4>
-  <strong>Tools:</strong>
-    <img align="center" src="https://skillicons.dev/icons?i=git,github,postman,vscode,kali,linux,ubuntu" alt="My Skills">
-</h4>
-
-<h2 align="center"><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></h2>
-
----
-
-<!-- <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/> -->
-
-**Key Skills:**
-
-- Software Development (Web)
-- Graphics and UI Design
-
-**Others:** System Design | Microservice Architecture | JWT | OOP | DSA | Machine Learning | Regex | Reconnaissance | SQL Injection.
 
 **Research Interest Field:**
 
-- Undersea Optical Wireless Communication
+- Undersea Communication
 - 6G Technology
 - Machine Learning
-  <br>
 
 <!-- <h2 align="center">Leetcode Status</h2>
 
----
+![Leetcode Stats](https://leetcard.jacoblin.cool/Yousufislam191?ext=heatmap&theme=dark)<br> -->
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/Yousufislam191?ext=heatmap)<br><br> -->
-
-<h2 align="center">⚙️&nbsp;GitHub Analytics</h2>
-
----
+<h2 align="center">GitHub Analytics</h2>
 
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousufislam191&layout=compact&langs_count=8&theme=transparent&card_width=320" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=yousufislam191&theme=transparent&layout=compact&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yousufislam191&theme=transparent"> </br></br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Alex_Panda&theme=transparent&layout=compact" />
+  <!-- GitHub Stats Card -->
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousufislam191&layout=compact&langs_count=50&theme=transparent&card_width=320&count_private=true" alt="Top Languages" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=Alex_Panda&theme=transparent&layout=compact" alt="Wakatime Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yousufislam191&theme=transparent&layout=compact&show_icons=true&show=prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yousufislam191&theme=transparent" alt="GitHub Streak" />
+  <br><br>
 </p>
+
+<!-- Placeholder for GitHub Actions to update stats -->
+<!-- End of GitHub Analytics section -->
