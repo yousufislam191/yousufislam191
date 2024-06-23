@@ -61,10 +61,15 @@ Connect with me :
 
 <h2 align="center">GitHub Analytics</h2>
 
+<details><summary><strong>Recent Activity :zap:</strong></summary>
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+</details></br>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yousufislam191&layout=compact&langs_count=50&theme=transparent&card_width=300&count_private=true" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Alex_Panda&theme=transparent&layout=compact" alt="Wakatime Stats" />
-  <div align="center" style="display: row;">  <img src="https://github-readme-stats.vercel.app/api?username=yousufislam191&theme=transparent&layout=compact&show_icons=true&show=prs_merged,prs_merged_percentage" alt="GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=yousufislam191&theme=transparent" alt="GitHub Streak" />
+  <img src="https://github-readme-status-sage.vercel.app/api/top-langs?username=yousufislam191&layout=compact&langs_count=50&theme=transparent&card_width=300&count_private=true" alt="Top Languages" />
+  <img src="https://github-readme-status-sage.vercel.app/api/wakatime?username=Alex_Panda&theme=transparent&layout=compact" alt="Wakatime Stats" />
+  <div align="center" style="display: row;">  <img src="https://github-readme-status-sage.vercel.app/api?username=yousufislam191&theme=transparent&layout=compact&show_icons=true&show=prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yousufislam191&theme=transparent" alt="GitHub Streak" />
   </div>
 </p>
