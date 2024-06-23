@@ -11,14 +11,15 @@ jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v3
 
       - name: Update GitHub Stats
         uses: anuraghazra/github-readme-stats@v2 # Adjust version as needed
-        env:
-          GITHUB_TOKEN: ${{ secrets.GH_README_STATS_TOKEN }}
-          README_STATS_USERNAME: yousufislam191 # Use a dedicated secret
-          # Other customization options (refer to action documentation)
+        with:
+          username: yousufislam191
+          token: ${{ secrets.GH_README_STATS_TOKEN }} # Use your secret name here
+          enable_private: true # Ensure this is set to true to include private repository stats
 
       - name: Commit and push changes
         run: |
