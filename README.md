@@ -64,6 +64,16 @@ Connect with me :
 <details><summary><strong>Recent Activity :zap:</strong></summary>
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#48](https://github.com/yousufislam191/Task-Management-System/pull/48) in [yousufislam191/Task-Management-System](https://github.com/yousufislam191/Task-Management-System)
+2. 💪 Opened PR [#48](https://github.com/yousufislam191/Task-Management-System/pull/48) in [yousufislam191/Task-Management-System](https://github.com/yousufislam191/Task-Management-System)
+3. 🎉 Merged PR [#47](https://github.com/yousufislam191/Task-Management-System/pull/47) in [yousufislam191/Task-Management-System](https://github.com/yousufislam191/Task-Management-System)
+4. 💪 Opened PR [#47](https://github.com/yousufislam191/Task-Management-System/pull/47) in [yousufislam191/Task-Management-System](https://github.com/yousufislam191/Task-Management-System)
+5. 🎉 Merged PR [#46](https://github.com/yousufislam191/Task-Management-System/pull/46) in [yousufislam191/Task-Management-System](https://github.com/yousufislam191/Task-Management-System)
+6. 💪 Opened PR [#46](https://github.com/yousufislam191/Task-Management-System/pull/46) in [yousufislam191/Task-Management-System](https://github.com/yousufislam191/Task-Management-System)
+7. 🎉 Merged PR [#45](https://github.com/yousufislam191/Task-Management-System/pull/45) in [yousufislam191/Task-Management-System](https://github.com/yousufislam191/Task-Management-System)
+8. 💪 Opened PR [#45](https://github.com/yousufislam191/Task-Management-System/pull/45) in [yousufislam191/Task-Management-System](https://github.com/yousufislam191/Task-Management-System)
+9. 🎉 Merged PR [#44](https://github.com/yousufislam191/Task-Management-System/pull/44) in [yousufislam191/Task-Management-System](https://github.com/yousufislam191/Task-Management-System)
+10. 💪 Opened PR [#44](https://github.com/yousufislam191/Task-Management-System/pull/44) in [yousufislam191/Task-Management-System](https://github.com/yousufislam191/Task-Management-System)
 <!--END_SECTION:activity-->
 
 </details></br>
