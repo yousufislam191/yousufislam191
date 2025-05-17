@@ -1,8 +1,8 @@
-<a href="https://app.daily.dev/yousufislam191" target="_blank"><img src="https://api.daily.dev/devcards/v2/mxe6Mbh89ddd9u0Cou3D0.png?r=xb0" width="280" align="right" alt="Md. Yousuf Islam's Dev Card"/></a>
+<!-- <a href="https://app.daily.dev/yousufislam191" target="_blank"><img src="https://api.daily.dev/devcards/v2/mxe6Mbh89ddd9u0Cou3D0.png?r=xb0" width="280" align="right" alt="Md. Yousuf Islam's Dev Card"/></a> -->
 
-<h1 align="left">Hi, I'm <strong>Yousuf</strong></h1>
+<h1 align="center">Hi, I'm <strong>Yousuf</strong></h1>
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Graduated+from+Leading+University;Software+Engineer+(Backend,+DevOps,+ML,+Frontend)&left=true&width=580&height=45"></a>
 </p>
 
