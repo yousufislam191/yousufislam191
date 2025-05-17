@@ -3,7 +3,7 @@
 <h1 align="left">Hi, I'm <strong>Yousuf</strong></h1>
 
 <p align="left">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Graduated+from+Leading+University;Software+Engineer+(Frontend+and+Backend);Machine+Learning+Enthusiast&left=true&width=500&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Graduated+from+Leading+University;Software+Engineer+(Backend,+DevOps,+ML,+Frontend)&left=true&width=580&height=45"></a>
 </p>
 
 <h2 align="center"><strong>About Yousuf</strong></h2>
@@ -37,23 +37,39 @@ Connect with me :
     <img align="center" src="https://skillicons.dev/icons?i=js,python,typescript,c,php,dart" alt="My Skills">
 </h4> -->
 
-**Languages:** C | Python | JavaScript
 
-**Backend:** Node.js | Express.js | TypeScript | REST API | RPC | JWT | DTO | Microservice Architecture | RabbitMQ | ORM (Sequelize, TypeORM) | MySQL | MongoDB | PostgreSQL | Firebase | Redis | Postman
+**Languages & Frameworks:** JavaScript, TypeScript, Node.js, NestJS, Express.js, Python.
 
-**DevOps:** Docker | Nginx | Linux | Git | Github Actions | CI/CD | Jest | Jenkins | Azure | Bash | Shell | VMware
+**Architecture:** Microservices, Event-Driven Systems, REST, RPC, DTO, JWT, Background Jobs.
 
-**Frontend:** React.js | Next.js | Material-UI | Tailwind CSS | Bootstrap | jQuery | HTML | CSS
+**Systems & Integrations:** Distributed Systems, Clustering, WebSocket, Webhooks, Third-Party APIs.
 
-**Machine Learning:** Scikit-learn | Numpy | Pandas | Matplotlib | Seaborn
+**Messaging & Caching:** BullMQ, RabbitMQ, Redis.
 
-**Others:** OOP | System Design | Kali Linux | Reconnaissance | SQL Injection | Regex | Figma | Photoshop
+**Observability:** Logging (Winston, Morgan), ELK Stack.
+
+**Databases:** MySQL, PostgreSQL, MongoDB, Firebase.
+
+**DevOps & Tools:** Docker, Nginx, Linux, Git, GitHub Actions, Jenkins, CI/CD, Bash/Shell, VMs.
+
+**Testing:** Jest, Postman.
+
+**Frontend:** React.js, Tailwind CSS, Material UI, Bootstrap, jQuery.
+
+**Machine Learning:** Pandas, NumPy, Scikit-learn, TensorFlow, Keras, Matplotlib, Seaborn.
+
+**Principles & Best Practices:** SOLID, DRY, KISS, OOP, Clean Code.
+
+**Familiar With:** Azure, Kubernetes, Kafka.
+
+**Others:** Reconnaissance, SQL Injection, Kali Linux.
+
 
 **Research Interest Field:**
 
-- Undersea Communication
-- 6G Technology
-- Machine Learning
+- High-speed undersea data transmission using Optical Wireless and ML
+- 6G Technology and Applications
+- Advanced Signal Processing for Underwater Networks
 
 <!-- <h2 align="center">Leetcode Status</h2>
 
