@@ -80,9 +80,9 @@ Connect with me :
 <details><summary><strong>Recent Activity :zap:</strong></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1044](https://github.com/kelektiv/node.bcrypt.js/issues/1044#issuecomment-2227106231) in [kelektiv/node.bcrypt.js](https://github.com/kelektiv/node.bcrypt.js)
-2. 🎉 Merged PR [#5](https://github.com/yousufislam191/yousufislam191/pull/5) in [yousufislam191/yousufislam191](https://github.com/yousufislam191/yousufislam191)
-3. 🎉 Merged PR [#48](https://github.com/yousufislam191/Task-Management-System/pull/48) in [yousufislam191/Task-Management-System](https://github.com/yousufislam191/Task-Management-System)
+1. 🎉 Merged PR [#8](https://github.com/yousufislam191/yousufislam191/pull/8) in [yousufislam191/yousufislam191](https://github.com/yousufislam191/yousufislam191)
+2. 🎉 Merged PR [#7](https://github.com/yousufislam191/yousufislam191/pull/7) in [yousufislam191/yousufislam191](https://github.com/yousufislam191/yousufislam191)
+3. 💪 Opened PR [#4](https://github.com/Innospace-Infotech-Ltd/inno-task-tracker/pull/4) in [Innospace-Infotech-Ltd/inno-task-tracker](https://github.com/Innospace-Infotech-Ltd/inno-task-tracker)
 4. 💪 Opened PR [#48](https://github.com/yousufislam191/Task-Management-System/pull/48) in [yousufislam191/Task-Management-System](https://github.com/yousufislam191/Task-Management-System)
 5. 🎉 Merged PR [#47](https://github.com/yousufislam191/Task-Management-System/pull/47) in [yousufislam191/Task-Management-System](https://github.com/yousufislam191/Task-Management-System)
 6. 💪 Opened PR [#47](https://github.com/yousufislam191/Task-Management-System/pull/47) in [yousufislam191/Task-Management-System](https://github.com/yousufislam191/Task-Management-System)
