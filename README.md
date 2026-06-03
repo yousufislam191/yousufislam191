@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm <strong>Yousuf</strong></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Graduated+from+Leading+University;Software+Engineer+(Backend,+DevOps,+ML,+Frontend)&left=true&width=580&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Graduated+from+Leading+University;Software+Engineer+%26+Research+Mentor;Expertise+in+Backend,+DevOps,+AI&left=true&width=580&height=45"></a>
 </p>
 
 <h2 align="center"><strong>About Yousuf</strong></h2>
@@ -14,10 +14,14 @@
 <a  href="https://github.com/yousufislam191?tab=followers"><img src="https://img.shields.io/github/followers/yousufislam191?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
 
+Yousuf Islam received the B.Sc. degree in Computer Science and Engineering from **Leading University**, Sylhet, Bangladesh. He is currently a **Software Engineer** with **2+ years of experience**, specializing in high-level, data-driven, scalable distributed systems and high-performance microservice architectures. Concurrently, he serves as a **Research Mentor** at the [DeepNet Research and Development Lab](https://deepnetlab.com/), where he has supervised several undergraduate research projects resulting in scholarly publications. He is actively conducting research in **Advanced Signal Processing, NLP, LLM, Computer Vision, Multimodal AI, and AI Efficiency** to solve real-world problems, which are his research interest areas.
+
+<!-- 
 - 🌱 I’m currently learning **System Design & DevOps**
 - 👯 I’m looking to collaborate on **Developers, Projects & Tech Articles**
 - 📄 Know about my experiences in [`Resume`](https://drive.google.com/file/d/14IE6-O4ZH2EYK4pA_2TLnVmdB5y1iuXB/view?usp=sharing "Yousuf Resume")
 - ⚡ Fun fact: **I love listening to music, traveling, photography, learn something new.**
+ -->
 
 <!-- [resume]: https://drive.google.com/file/d/14IE6-O4ZH2EYK4pA_2TLnVmdB5y1iuXB/view?usp=sharing "Yousuf Resume" -->
 
@@ -25,8 +29,6 @@
 Connect with me : 
 <a href="https://twitter.com/yousufislam_191" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yousufislam_191" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/yousufislam191" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yousufislam191" height="30" width="40" /></a>
-<a href="https://fb.com/yousufislam191" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yousufislam191" height="30" width="40" /></a>
-<a href="https://instagram.com/yousufislam191" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yousufislam191" height="30" width="40" /></a>
 <a href="https://kaggle.com/yousufislam191" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="yousufislam191" height="30" width="40" /></a>
 </h2>
 
