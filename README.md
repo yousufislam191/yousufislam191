@@ -14,7 +14,7 @@
 <a  href="https://github.com/yousufislam191?tab=followers"><img src="https://img.shields.io/github/followers/yousufislam191?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
 
-Yousuf Islam received the B.Sc. degree in Computer Science and Engineering from **Leading University**, Sylhet, Bangladesh. He is currently a **Software Engineer** with **2+ years of experience**, specializing in high-level, data-driven, scalable distributed systems and high-performance microservice architectures. Concurrently, he serves as a **Research Mentor** at the [DeepNet Research and Development Lab](https://deepnetlab.com/), where he has supervised several undergraduate research projects resulting in scholarly publications. He is actively conducting research in **Advanced Signal Processing, NLP, LLM, Computer Vision, Multimodal AI, and AI Efficiency** to solve real-world problems, which are his research interest areas.
+Yousuf Islam received the B.Sc. degree in Computer Science and Engineering from [Leading University](https://lus.ac.bd), Sylhet, Bangladesh. He is currently a **Software Engineer** with **2+ years of experience**, specializing in high-level, data-driven, scalable distributed systems and high-performance microservice architectures. Concurrently, he serves as a **Research Mentor** at the [DeepNet Research and Development Lab](https://deepnetlab.com/), where he has supervised several undergraduate research projects resulting in scholarly publications. He is actively conducting research in **Advanced Signal Processing, NLP, LLM, Computer Vision, Multimodal AI, and AI Efficiency** to solve real-world problems, which are his research interest areas.
 
 <!-- 
 - 🌱 I’m currently learning **System Design & DevOps**
@@ -65,13 +65,6 @@ Connect with me :
 **Familiar With:** Azure, Kubernetes, Kafka.
 
 **Others:** Reconnaissance, SQL Injection, Kali Linux.
-
-
-**Research Interest Field:**
-
-- High-speed undersea data transmission using Optical Wireless and ML
-- 6G Technology and Applications
-- Advanced Signal Processing for Underwater Networks
 
 <!-- <h2 align="center">Leetcode Status</h2>
 
