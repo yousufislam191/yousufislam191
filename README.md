@@ -1,11 +1,14 @@
 <!-- <a href="https://app.daily.dev/yousufislam191" target="_blank"><img src="https://api.daily.dev/devcards/v2/mxe6Mbh89ddd9u0Cou3D0.png?r=xb0" width="280" align="right" alt="Md. Yousuf Islam's Dev Card"/></a> -->
 
-<h1 align="center" style="margin:0;font-size:32px;line-height:1;display:flex;align-items:center;justify-content:center;gap:12px;flex-wrap:wrap;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;">
-  <span style="display:inline-block;margin:0;font-weight:700;">Hi, I'm <strong>Yousuf</strong></span>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg" style="display:inline-flex;align-items:center;margin-left:4px;">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Graduated+from+Leading+University;Software+Engineer+%26+Research+Mentor;Expertise+in+Backend,+DevOps,+AI&width=520&height=32" alt="typing-svg" style="height:0.95em;width:auto;display:block;transform:translateY(0.06em);" />
-  </a>
-</h1>
+<div>
+  <div align="left">
+    <h2>Hi, I'm Yousuf, &nbsp;
+      <a href="https://git.io" style="display: inline-block; vertical-align: middle;">
+        <img src="https://readme-typing-svg.herokuapp.com?font=sans-serif&size=24&pause=1000&color=F7F7F7&vCenter=true&width=481&lines=a+Graduate+from+Leading+University;a+Software+Engineer+%26+Research+Mentor;specializing+in+Backend%2C+DevOps%2C+%26+AI" alt="Typing SVG valign="middle" align="center" />
+      </a>
+    </h2>
+  </div>
+</div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yousufislam&label=Profile%20views&color=0e75b6&style=flat" alt="yousufislam191" />
@@ -26,26 +29,30 @@ Yousuf Islam received the B.Sc. degree in Computer Science and Engineering from 
 
 ---
 
-<div style="width:100%;">
-  <div style="max-width:980px;margin:0 auto;padding:0 16px;text-align:left;">
-    <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;font-size:14px;line-height:1.6;">
-      <strong style="font-size:14px;line-height:1;margin-right:8px;">Follow Me :</strong>
-      <a href="https://twitter.com/yousufislam_191" target="_blank" style="display:inline-flex;align-items:center;gap:6px;padding:4px 10px;border:1px solid #d0d7de;border-radius:8px;font-size:14px;line-height:1;color:inherit;text-decoration:none;"><img align="center" src="https://api.iconify.design/simple-icons:twitter.svg?color=%231DA1F2" alt="Twitter" height="18" width="18" style="margin-right:6px;"/><span>Twitter</span></a>
-      <span aria-hidden="true" style="margin:0 6px;color:var(--color-muted,#6c757d);">|</span>
-      <a href="https://linkedin.com/in/yousufislam191" target="_blank" style="display:inline-flex;align-items:center;gap:6px;padding:4px 10px;border:1px solid #d0d7de;border-radius:8px;font-size:14px;line-height:1;color:inherit;text-decoration:none;"><img align="center" src="https://api.iconify.design/simple-icons:linkedin.svg?color=%230A66C2" alt="LinkedIn" height="18" width="18" style="margin-right:6px;"/><span>LinkedIn</span></a>
-      <span aria-hidden="true" style="margin:0 6px;color:var(--color-muted,#6c757d);">|</span>
-      <a href="https://kaggle.com/yousufislam191" target="_blank" style="display:inline-flex;align-items:center;gap:6px;padding:4px 10px;border:1px solid #d0d7de;border-radius:8px;font-size:14px;line-height:1;color:inherit;text-decoration:none;"><img align="center" src="https://api.iconify.design/simple-icons:kaggle.svg?color=%230A9BDC" alt="Kaggle" height="18" width="18" style="margin-right:6px;"/><span>Kaggle</span></a>
-      <span aria-hidden="true" style="margin:0 6px;color:var(--color-muted,#6c757d);">|</span>
-      <a href="https://scholar.google.com/citations?user=fvYobwIAAAAJ" target="_blank" style="display:inline-flex;align-items:center;gap:6px;padding:4px 10px;border:1px solid #d0d7de;border-radius:8px;font-size:14px;line-height:1;color:inherit;text-decoration:none;"><img align="center" src="https://api.iconify.design/simple-icons:googlescholar.svg?color=%234285F4" alt="Google Scholar" height="18" width="18" style="margin-right:6px;"/><span>Google Scholar</span></a>
-      <span aria-hidden="true" style="margin:0 6px;color:var(--color-muted,#6c757d);">|</span>
-      <a href="https://www.researchgate.net/profile/Yousuf-Islam-4" target="_blank" style="display:inline-flex;align-items:center;gap:6px;padding:4px 10px;border:1px solid #d0d7de;border-radius:8px;font-size:14px;line-height:1;color:inherit;text-decoration:none;"><img align="center" src="https://api.iconify.design/simple-icons:researchgate.svg?color=%2300CCBB" alt="ResearchGate" height="18" width="18" style="margin-right:6px;"/><span>ResearchGate</span></a>
-      <span aria-hidden="true" style="margin:0 6px;color:var(--color-muted,#6c757d);">|</span>
-      <a href="https://orcid.org/0009-0009-0991-1576" target="_blank" style="display:inline-flex;align-items:center;gap:6px;padding:4px 10px;border:1px solid #d0d7de;border-radius:8px;font-size:14px;line-height:1;color:inherit;text-decoration:none;"><img align="center" src="https://api.iconify.design/simple-icons:orcid.svg?color=%23A6CE39" alt="ORCID" height="18" width="18" style="margin-right:6px;"/><span>ORCID</span></a>
-      <span aria-hidden="true" style="margin:0 6px;color:var(--color-muted,#6c757d);">|</span>
-      <a href="https://yousufislam191.github.io" target="_blank" style="display:inline-flex;align-items:center;gap:6px;padding:4px 10px;border:1px solid #d0d7de;border-radius:8px;font-size:14px;line-height:1;color:inherit;text-decoration:none;"><img align="center" src="https://api.iconify.design/simple-icons:googlechrome.svg?color=%234285F4" alt="Website" height="18" width="18" style="margin-right:6px;"/><span>Website</span></a>
-    </div>
-  </div>
-</div>
+<p align="left">
+  <strong>Follow Me :</strong> &nbsp;
+  <a href="https://twitter.com/yousufislam_191" target="_blank">
+    <img align="center" src="https://api.iconify.design/simple-icons:twitter.svg?color=%231DA1F2" alt="Twitter" height="18" width="18" />&nbsp;Twitter
+  </a> &nbsp;|&nbsp;
+  <a href="https://linkedin.com/in/yousufislam191" target="_blank">
+    <img align="center" src="https://api.iconify.design/simple-icons:linkedin.svg?color=%230A66C2" alt="LinkedIn" height="18" width="18" />&nbsp;LinkedIn
+  </a> &nbsp;|&nbsp;
+  <a href="https://kaggle.com/yousufislam191" target="_blank">
+    <img align="center" src="https://api.iconify.design/simple-icons:kaggle.svg?color=%230A9BDC" alt="Kaggle" height="18" width="18" />&nbsp;Kaggle
+  </a> &nbsp;|&nbsp;
+  <a href="https://scholar.google.com/citations?user=fvYobwIAAAAJ" target="_blank">
+    <img align="center" src="https://api.iconify.design/simple-icons:googlescholar.svg?color=%234285F4" alt="Google Scholar" height="18" width="18" />&nbsp;Google Scholar
+  </a> &nbsp;|&nbsp;
+  <a href="https://www.researchgate.net/profile/Yousuf-Islam-4" target="_blank">
+    <img align="center" src="https://api.iconify.design/simple-icons:researchgate.svg?color=%2300CCBB" alt="ResearchGate" height="18" width="18" />&nbsp;ResearchGate
+  </a> &nbsp;|&nbsp;
+  <a href="https://orcid.org/0009-0009-0991-1576" target="_blank">
+    <img align="center" src="https://api.iconify.design/simple-icons:orcid.svg?color=%23A6CE39" alt="ORCID" height="18" width="18" />&nbsp;ORCID
+  </a> &nbsp;|&nbsp;
+  <a href="https://yousufislam191.github.io" target="_blank">
+    <img align="center" src="https://api.iconify.design/simple-icons:googlechrome.svg?color=%234285F4" alt="Website" height="18" width="18" />&nbsp;Website
+  </a>
+</p>
 
 <h2 align="center"><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> My Stacks 🛠 &nbsp;<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></h2>
 
