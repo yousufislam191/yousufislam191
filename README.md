@@ -3,9 +3,7 @@
 <div>
   <div align="left">
     <h2>Hi, I'm Yousuf, &nbsp;
-      <a href="https://git.io" style="display: inline-block; vertical-align: middle;">
-        <img src="https://readme-typing-svg.herokuapp.com?font=sans-serif&size=24&pause=1000&color=F7F7F7&vCenter=true&width=481&lines=a+Graduate+from+Leading+University;a+Software+Engineer+%26+Research+Mentor;specializing+in+Backend%2C+DevOps%2C+%26+AI" alt="Typing SVG valign="middle" align="center" />
-      </a>
+      <img src="https://readme-typing-svg.herokuapp.com?font=sans-serif&size=24&pause=1000&color=F7F7F7&vCenter=true&width=481&lines=a+Graduate+from+Leading+University;a+Software+Engineer+%26+Research+Mentor;specializing+in+Backend%2C+DevOps%2C+%26+AI" alt="Typing SVG" valign="middle" align="center" style="display: inline-block; vertical-align: middle; cursor: text; pointer-events: none;" />
     </h2>
   </div>
 </div>
