@@ -1,22 +1,21 @@
 <!-- <a href="https://app.daily.dev/yousufislam191" target="_blank"><img src="https://api.daily.dev/devcards/v2/mxe6Mbh89ddd9u0Cou3D0.png?r=xb0" width="280" align="right" alt="Md. Yousuf Islam's Dev Card"/></a> -->
 
-<h1 align="center">Hi, I'm <strong>Yousuf</strong></h1>
+<h1 align="center" style="margin:0;font-size:32px;line-height:1;display:flex;align-items:center;justify-content:center;gap:8px;flex-wrap:wrap;">
+  <span style="display:flex;align-items:center;">Hi, I'm <strong>Yousuf</strong></span>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg" style="display:flex;align-items:center;">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Graduated+from+Leading+University;Software+Engineer+%26+Research+Mentor;Expertise+in+Backend,+DevOps,+AI&width=520&height=32" alt="typing-svg" style="display:block;height:1em;width:auto;margin-left:8px;align-self:center;transform:translateY(0.12em);" />
+  </a>
+</h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Graduated+from+Leading+University;Software+Engineer+%26+Research+Mentor;Expertise+in+Backend,+DevOps,+AI&left=true&width=580&height=45"></a>
-</p>
-
-<h2 align="center"><strong>About Yousuf</strong></h2>
-
-<p align="center"> 
-<img src="https://komarev.com/ghpvc/?username=yousufislam&label=Profile%20views&color=0e75b6&style=flat" alt="yousufislam191" /> 
-<img src="https://wakatime.com/badge/user/45a416bb-97f0-4c85-a305-959a6fe9270b.svg" alt="Total time coded since Apr 26 2024" />
-<a  href="https://github.com/yousufislam191?tab=followers"><img src="https://img.shields.io/github/followers/yousufislam191?label=Followers&style=social" alt="GitHub Badge"></a>
+  <img src="https://komarev.com/ghpvc/?username=yousufislam&label=Profile%20views&color=0e75b6&style=flat" alt="yousufislam191" />
+  <img src="https://wakatime.com/badge/user/45a416bb-97f0-4c85-a305-959a6fe9270b.svg" alt="Total time coded since Apr 26 2024" />
+  <a href="https://github.com/yousufislam191?tab=followers"><img src="https://img.shields.io/github/followers/yousufislam191?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
 
 Yousuf Islam received the B.Sc. degree in Computer Science and Engineering from [Leading University](https://lus.ac.bd), Sylhet, Bangladesh. He is currently a **Software Engineer** with **2+ years of experience**, specializing in high-level, data-driven, scalable distributed systems and high-performance microservice architectures. Concurrently, he serves as a **Research Mentor** at the [DeepNet Research and Development Lab](https://deepnetlab.com/), where he has supervised several undergraduate research projects resulting in scholarly publications. He is actively conducting research in **Advanced Signal Processing, NLP, LLM, Computer Vision, Multimodal AI, and AI Efficiency** to solve real-world problems, which are his research interest areas.
 
-<!-- 
+<!--
 - 🌱 I’m currently learning **System Design & DevOps**
 - 👯 I’m looking to collaborate on **Developers, Projects & Tech Articles**
 - 📄 Know about my experiences in [`Resume`](https://drive.google.com/file/d/14IE6-O4ZH2EYK4pA_2TLnVmdB5y1iuXB/view?usp=sharing "Yousuf Resume")
@@ -25,46 +24,40 @@ Yousuf Islam received the B.Sc. degree in Computer Science and Engineering from 
 
 <!-- [resume]: https://drive.google.com/file/d/14IE6-O4ZH2EYK4pA_2TLnVmdB5y1iuXB/view?usp=sharing "Yousuf Resume" -->
 
-<h2 align="left">
-Connect with me : 
-<a href="https://twitter.com/yousufislam_191" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yousufislam_191" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/yousufislam191" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yousufislam191" height="30" width="40" /></a>
-<a href="https://kaggle.com/yousufislam191" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="yousufislam191" height="30" width="40" /></a>
-</h2>
+---
+
+<div align="center" style="display:flex;align-items:center;justify-content:center;flex-wrap:wrap;gap:10px;margin:0;font-size:14px;line-height:1.6;">
+<strong style="font-size:14px;line-height:1;">Follow Me :</strong>
+<a href="https://twitter.com/yousufislam_191" target="_blank" style="display:inline-flex;align-items:center;gap:6px;padding:4px 10px;border:1px solid #d0d7de;border-radius:8px;font-size:14px;line-height:1;color:inherit;text-decoration:none;">
+<img align="center" src="https://api.iconify.design/simple-icons:twitter.svg?color=%231DA1F2" alt="Twitter" height="18" width="18" /><span>Twitter</span></a>
+<a href="https://linkedin.com/in/yousufislam191" target="_blank" style="display:inline-flex;align-items:center;gap:6px;padding:4px 10px;border:1px solid #d0d7de;border-radius:8px;font-size:14px;line-height:1;color:inherit;text-decoration:none;">
+<img align="center" src="https://api.iconify.design/simple-icons:linkedin.svg?color=%230A66C2" alt="LinkedIn" height="18" width="18" /><span>LinkedIn</span></a>
+<a href="https://kaggle.com/yousufislam191" target="_blank" style="display:inline-flex;align-items:center;gap:6px;padding:4px 10px;border:1px solid #d0d7de;border-radius:8px;font-size:14px;line-height:1;color:inherit;text-decoration:none;">
+<img align="center" src="https://api.iconify.design/simple-icons:kaggle.svg?color=%230A9BDC" alt="Kaggle" height="18" width="18" /><span>Kaggle</span></a>
+<a href="https://scholar.google.com/citations?user=fvYobwIAAAAJ" target="_blank" style="display:inline-flex;align-items:center;gap:6px;padding:4px 10px;border:1px solid #d0d7de;border-radius:8px;font-size:14px;line-height:1;color:inherit;text-decoration:none;">
+<img align="center" src="https://api.iconify.design/simple-icons:googlescholar.svg?color=%234285F4" alt="Google Scholar" height="18" width="18" /><span>Google Scholar</span></a>
+<a href="https://www.researchgate.net/profile/Yousuf-Islam-4" target="_blank" style="display:inline-flex;align-items:center;gap:6px;padding:4px 10px;border:1px solid #d0d7de;border-radius:8px;font-size:14px;line-height:1;color:inherit;text-decoration:none;">
+<img align="center" src="https://api.iconify.design/simple-icons:researchgate.svg?color=%2300CCBB" alt="ResearchGate" height="18" width="18" /><span>ResearchGate</span></a>
+<a href="https://orcid.org/0009-0009-0991-1576" target="_blank" style="display:inline-flex;align-items:center;gap:6px;padding:4px 10px;border:1px solid #d0d7de;border-radius:8px;font-size:14px;line-height:1;color:inherit;text-decoration:none;">
+<img align="center" src="https://api.iconify.design/simple-icons:orcid.svg?color=%23A6CE39" alt="ORCID" height="18" width="18" /><span>ORCID</span></a>
+<a href="https://yousufislam191.github.io" target="_blank" style="display:inline-flex;align-items:center;gap:6px;padding:4px 10px;border:1px solid #d0d7de;border-radius:8px;font-size:14px;line-height:1;color:inherit;text-decoration:none;">
+<img align="center" src="https://api.iconify.design/simple-icons:googlechrome.svg?color=%234285F4" alt="Website" height="18" width="18" /><span>Website</span></a>
+</div>
 
 <h2 align="center"><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> My Stacks 🛠 &nbsp;<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></h2>
 
-<!-- <h4>
-  <strong>Languages:</strong>
-    <img align="center" src="https://skillicons.dev/icons?i=js,python,typescript,c,php,dart" alt="My Skills">
-</h4> -->
-
-
-**Languages & Frameworks:** JavaScript, TypeScript, Node.js, NestJS, Express.js, Python.
-
-**Architecture:** Microservices, Event-Driven Systems, REST, RPC, DTO, JWT, Background Jobs.
-
-**Systems & Integrations:** Distributed Systems, Clustering, WebSocket, Webhooks, Third-Party APIs.
-
-**Messaging & Caching:** BullMQ, RabbitMQ, Redis.
-
-**Observability:** Logging (Winston, Morgan), ELK Stack.
-
-**Databases:** MySQL, PostgreSQL, MongoDB, Firebase.
-
-**DevOps & Tools:** Docker, Nginx, Linux, Git, GitHub Actions, Jenkins, CI/CD, Bash/Shell, VMs.
-
-**Testing:** Jest, Postman.
-
-**Frontend:** React.js, Tailwind CSS, Material UI, Bootstrap, jQuery.
-
-**Machine Learning:** Pandas, NumPy, Scikit-learn, TensorFlow, Keras, Matplotlib, Seaborn.
-
-**Principles & Best Practices:** SOLID, DRY, KISS, OOP, Clean Code.
-
-**Familiar With:** Azure, Kubernetes, Kafka.
-
-**Others:** Reconnaissance, SQL Injection, Kali Linux.
+<p align="left">
+<strong>Backend Development:</strong> Node.js, Express.js, NestJS, TypeScript, FastAPI, Sequelize, TypeORM, SQLAlchemy, BullMQ, MySQL, PostgreSQL, MongoDB, Firebase.<br><br>
+<strong>AI & Agentic AI:</strong> LangChain, LangGraph, CrewAI, RAG, Vector DBs, Chromadb, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Keras, TensorFlow, PyTorch, OpenCV, Claude Code, AI-Assisted Development.<br><br>
+<strong>DevOps & Infrastructure:</strong> Docker, Nginx, Linux, Redis, RabbitMQ, Git, GitHub Actions, Jenkins, CI/CD, Bash/Shell, Virtual Machines (VMs), Azure, GCP, Vercel, Supabase.<br><br>
+<strong>Architecture & Systems:</strong> Microservices, Event-Driven, Monolithc, System Design, System Optimization, Scalability, Data Migration, Large Scale Distributed Systems, Clustering.<br><br>
+<strong>Protocols & Integrations:</strong> REST, RPC, AMQP, TCP, WebSockets, Webhooks.<br><br>
+<strong>Observability & Tooling:</strong> Logging (Winston, Morgan), ELK Stack, Postman.<br><br>
+<strong>Frontend Development:</strong> React.js, Next.js, Material UI, Bootstrap, Tailwind CSS, jQuery.<br><br>
+<strong>Testing & Quality:</strong> Jest, Reconnaissance, SQL Injection, Kali Linux.<br><br>
+<strong>Engineering Practices:</strong> Monorepo, Clean Code, SOLID, DRY, Code Reviews, Agile Methodologies.<br><br>
+<strong>Programming Languages:</strong> JavaScript, Python.
+</p>
 
 <!-- <h2 align="center">Leetcode Status</h2>
 
@@ -75,6 +68,7 @@ Connect with me :
 <details><summary><strong>Recent Activity :zap:</strong></summary>
 
 <!--START_SECTION:activity-->
+
 1. 🎉 Merged PR [#8](https://github.com/yousufislam191/yousufislam191/pull/8) in [yousufislam191/yousufislam191](https://github.com/yousufislam191/yousufislam191)
 2. 🎉 Merged PR [#7](https://github.com/yousufislam191/yousufislam191/pull/7) in [yousufislam191/yousufislam191](https://github.com/yousufislam191/yousufislam191)
 3. 💪 Opened PR [#4](https://github.com/Innospace-Infotech-Ltd/inno-task-tracker/pull/4) in [Innospace-Infotech-Ltd/inno-task-tracker](https://github.com/Innospace-Infotech-Ltd/inno-task-tracker)
