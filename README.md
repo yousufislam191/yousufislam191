@@ -1,9 +1,9 @@
 <!-- <a href="https://app.daily.dev/yousufislam191" target="_blank"><img src="https://api.daily.dev/devcards/v2/mxe6Mbh89ddd9u0Cou3D0.png?r=xb0" width="280" align="right" alt="Md. Yousuf Islam's Dev Card"/></a> -->
 
-<h1 align="center" style="margin:0;font-size:32px;line-height:1;display:flex;align-items:center;justify-content:center;gap:8px;flex-wrap:wrap;">
-  <span style="display:flex;align-items:center;">Hi, I'm <strong>Yousuf</strong></span>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg" style="display:flex;align-items:center;">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Graduated+from+Leading+University;Software+Engineer+%26+Research+Mentor;Expertise+in+Backend,+DevOps,+AI&width=520&height=32" alt="typing-svg" style="display:block;height:1em;width:auto;margin-left:8px;align-self:center;transform:translateY(0.12em);" />
+<h1 align="center" style="margin:0;font-size:32px;line-height:1;display:flex;align-items:center;justify-content:center;gap:12px;flex-wrap:wrap;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;">
+  <span style="display:inline-block;margin:0;font-weight:700;">Hi, I'm <strong>Yousuf</strong></span>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg" style="display:inline-flex;align-items:center;margin-left:4px;">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Graduated+from+Leading+University;Software+Engineer+%26+Research+Mentor;Expertise+in+Backend,+DevOps,+AI&width=520&height=32" alt="typing-svg" style="height:0.95em;width:auto;display:block;transform:translateY(0.06em);" />
   </a>
 </h1>
 
